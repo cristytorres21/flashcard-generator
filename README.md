@@ -1,2 +1,4 @@
-# flashcard-generator
+# Flashcards Generator
 Periodic Table Flashcards
+
+## Synopsis
